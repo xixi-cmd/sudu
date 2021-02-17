@@ -1,0 +1,31 @@
+footer.main-footer .go-up a {
+    background-color: transparent !important;
+}
+
+footer.main-footer .go-up a:hover {
+    background-color: transparent !important;
+}
+
+.sidebar-menu.fixed .sidebar-menu-inner {
+    background-color: #fff;
+}
+
+.sidebar-menu .main-menu a {
+    color: #555;
+}
+
+.sidebar-menu .main-menu a:hover {
+    color: #111;
+}
+
+.sidebar-menu.fixed {
+    background-color: #fff;
+}
+
+.sidebar-menu.collapsed .main-menu>li>ul>li>a {
+    background-color: #fff;
+}
+
+.sidebar-menu .main-menu>li {
+    border-bottom: 1px solid #fff;
+}
